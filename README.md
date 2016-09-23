@@ -1,4 +1,4 @@
-# jetbrains-sublime-theme
+# Jetbrains Sublime Theme
 Sublime Text 3 colour scheme for JetBrains Web/PhpStorm 2016+
 
 Installation
