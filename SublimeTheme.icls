@@ -8,6 +8,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="34352d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="FILESTATUS_MODIFIED" value="59cbef" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ff0000" />
     <option name="INDENT_GUIDE" value="3c3f41" />
@@ -30,6 +31,11 @@
     <option name="BASH.HERE_DOC">
       <value>
         <option name="BACKGROUND" value="1e1f1a" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="5896da" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
