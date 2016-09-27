@@ -11,7 +11,7 @@ Installation
         
 2. Restart PhpStorm
 
-3. Go to `Preferences | Editor | Colors & Fonts` and select `Sublime 3` theme.
+3. Go to `Preferences | Editor | Colors & Fonts` and select `Sublime Theme`.
 
 ### Screenshots
 ## PHP
