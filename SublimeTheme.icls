@@ -1,4 +1,4 @@
-<scheme name="Sublime 3" version="142" parent_scheme="Default">
+<scheme name="Sublime Theme" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -1012,7 +1012,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f92672" />
+        <option name="FOREGROUND" value="66d9d6" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
