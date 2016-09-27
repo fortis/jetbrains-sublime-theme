@@ -3,7 +3,7 @@ Sublime Text 3 colour scheme for JetBrains Web/PhpStorm 2016+
 
 Installation
 ------------
-1. Copy `SublimeTheme.icls` to your PhpStorm preferences folder (you need to create a folder named `colors`):
+1. Copy [SublimeTheme.icls](https://raw.githubusercontent.com/fortis/jetbrains-sublime-theme/master/SublimeTheme.icls) to your PhpStorm preferences folder (you need to create a folder named `colors`):
 
         - Mac: `~/Library/Preferences/PhpStorm2016.2\config\colors`
         - Windows: `C:\Users\<username>\PhpStorm2016.2\config\colors`
