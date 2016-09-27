@@ -3,8 +3,6 @@ Sublime Text 3 colour scheme for JetBrains Web/PhpStorm 2016+
 
 Installation
 ------------
-### Manual installation
-
 1. Copy `SublimeTheme.icls` to your PhpStorm preferences folder:
 
         * Mac: `~/Library/Preferences/PhpStorm2016.2`
