@@ -13,6 +13,8 @@ Installation
 
 3. Go to `Preferences | Editor | Colors & Fonts` and select `Sublime Theme`.
 
+4.  I also recommend https://github.com/tonsky/FiraCode font
+
 ### Screenshots
 ## PHP
 ![image](https://pp.vk.me/c629630/v629630662/356af/yS3KKZIwL6c.jpg)
