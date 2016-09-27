@@ -13,16 +13,16 @@ Installation
 
 3. Go to `Preferences | Editor | Colors & Fonts` and select `Sublime Theme`.
 
-## I also highly recommend 
+## Would highly recommend
 - FiraCode font https://github.com/tonsky/FiraCode with programming ligatures
 - Code minimap https://github.com/Vektah/CodeGlance similar to the one in Sublime
 
-### Screenshots
-## PHP
+## Screenshots
+#### PHP
 ![image](https://pp.vk.me/c629630/v629630662/356af/yS3KKZIwL6c.jpg)
 
-## JS
+#### JS
 ![image](https://pp.vk.me/c629630/v629630662/3569b/BzSMULBRElw.jpg)
 
-## CSS
+#### CSS
 ![image](https://pp.vk.me/c629630/v629630662/356a5/dqvLDPi3r6I.jpg)
