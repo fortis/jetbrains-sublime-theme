@@ -8,9 +8,8 @@ Installation
 1. Copy `SublimeTheme.icls` to your PhpStorm preferences folder:
 
         * Mac: `~/Library/Preferences/PhpStorm2016.2`
-        * Windows 7: ``
-        * Windows XP: ``
-        * Linux: ``
+        * Windows: `C:\Users\<username>\PhpStorm2016.2\config\colors`
+        * Linux: `~\.PhpStorm2016.2\config\colors`
         
 2. Restart PhpStorm
 
